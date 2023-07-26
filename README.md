@@ -13,6 +13,9 @@ The Supply Chain team decided to use a standard approach to measure the service 
 2. Create a dashboard according to the requirements provided by stakeholders in the business review meeting. You will be provided with the transcript of this business review meeting in comic form.
 3. Create relevant insights not provided in the metric list/stakeholder meeting.
 
+
+![1](https://github.com/RahulBhanushali0809/Procurement_Report/assets/109872141/2bab61c1-652d-45a1-9e2e-19ed4af4a289)
+
 ## Procurement Dashboard: (steps)
 1. Primary Data Loading
 2. Data Cleaning & Profiling
