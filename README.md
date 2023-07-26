@@ -1,4 +1,4 @@
-# Procurement_Report
+# Supply Chain Report
 
 ## Problem Statement
 AtliQ Mart is a growing FMCG manufacturer headquartered in Gujarat, India. It is currently operational in three cities Surat, Ahmedabad and Vadodara. They want to expand to other metros/Tier 1 cities in the next 2 years.
@@ -16,7 +16,7 @@ The Supply Chain team decided to use a standard approach to measure the service 
 
 ![1](https://github.com/RahulBhanushali0809/Procurement_Report/assets/109872141/2bab61c1-652d-45a1-9e2e-19ed4af4a289)
 
-## Procurement Dashboard: (steps)
+## Report creation: (steps)
 1. Primary Data Loading
 2. Data Cleaning & Profiling
 3. Data Modelling
